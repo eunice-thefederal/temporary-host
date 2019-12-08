@@ -1,0 +1,318 @@
+
+
+<!doctype html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Vertical timeline</title>
+  <link rel="stylesheet" href="https://thefederal.com/embed/Timelines/css/style_v.css" />
+  <style>
+      ul#dates:after {
+        height: 95.6%;
+      }
+      .socket {
+        top: 52%;
+      }
+      #dates li {
+          padding-left: 22px;
+          font-size: 13px;
+      }
+      #dates .selected {
+          font-size: 15px;
+      }
+      .intact {
+          bottom: 18%;
+      }
+      @media (max-width: 767px) {
+        .dummy-head {
+            top: 15% !important;
+        }
+        .socket {
+            top: 50% !important;
+            /* transform: scale(0.8); */
+        }
+        .intact {
+            bottom: 18% !important;
+        }
+        #dates li {
+            padding-left: 13px;
+            font-size: 12px;
+        }
+        #dates .selected {
+            font-size: 12px;
+        }
+        #issues li p {
+            width: 85%;
+        }
+      }
+  </style>
+</head>
+<body>
+  <div class="body">
+    <div class="dummy-head">
+        <h1>Major blaze in Delhi</h1>
+        <p>Here is a list of some major fires in Delhi and the national capital region:</p>
+    </div>
+      <div class="socket">
+        <div class="gel center-gel">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c1 r1">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c2 r1">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c3 r1">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c4 r1">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c5 r1">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c6 r1">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        
+        <div class="gel c7 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        
+        <div class="gel c8 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c9 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c10 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c11 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c12 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c13 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c14 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c15 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c16 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c17 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c18 r2">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c19 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c20 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c21 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c22 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c23 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c24 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c25 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c26 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c28 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c29 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c30 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c31 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c32 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c33 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c34 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c35 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c36 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        <div class="gel c37 r3">
+          <div class="hex-brick h1"></div>
+          <div class="hex-brick h2"></div>
+          <div class="hex-brick h3"></div>
+        </div>
+        
+      </div>
+      <div class="intact">
+        <small>Interactive timeline graphic. Click on the arrow or year to progress.</small>
+        <button class="clickme"> START</button>
+      </div>
+    </div>
+  
+  
+  <div id="timeline">
+    <ul id="dates">
+  
+    </ul>
+    <ul id="issues">
+ 
+    </ul>
+    <a href="#" id="next">+</a>
+    <a href="#" id="prev">-</a>
+  </div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js'></script>
+<script src="https://thefederal.com/embed/Timelines/js/jquery.timelinr-0.9.7.js"></script>
+<script src='https://thefederal.com/embed/Timelines/data28.json'></script>
+<script >
+
+ 
+ var timelineData = [{"id":1,"year":"Feb 12, 2019","headline":"Feb 12, 2019","desc":"17 killed in a fire at a hotel in central Delhi’s congested Karol Bagh area.","images":"#","links":null},{"id":2,"year":"Feb 7, 2019","headline":"Feb 7, 2019","desc":"Scores of patients and staff at Noida’s Metro Hospital and Heart Institute had to be evacuated after a major fire.","images":"#","links":" "},{"id":3,"year":"Jan 30, 2019","headline":"Jan 30, 2019","desc":"Four people were injured in a fire at a chemical factory in Okhla Phase-I in southeastern Delhi.","images":"#","links":null},{"id":4,"year":"Nov 19, 2018","headline":"Nov 19, 2018","desc":"Four people were killed and one person was injured after a fire broke out at a factory in central Delhi’s Karol Bagh.","images":"#","links":null},{"id":5,"year":"May 29, 2018","headline":"May 29, 2018","desc":"A massive blaze, which fire officials said was of “highest magnitude”, broke out at a godown in south Delhi’s Malviya Nagar. No casualty was reported.","images":"#","links":null},{"id":6,"year":"April 23, 2018","headline":"April 23, 2018","desc":"At least 300 shanties were gutted after a major fire broke out in Shahdara’s MS Park. A girl was killed in the fire.","images":"#","links":null},{"id":7,"year":"April 13, 2018","headline":"April 13, 2018","desc":"Four members of a family, including two minor children, were killed in a major fire in Delhi’s Kohat Enclave.","images":"#","links":null},{"id":8,"year":"Jan 20, 2018","headline":"Jan 20, 2018","desc":"At least 10 women and seven men were charred to death in a fire that broke out in a firecracker unit in northwest Delhi’s Bawana industrial area.","images":"#","links":null},{"id":9,"year":"Nov 20, 2011","headline":"Nov 20, 2011","desc":" Fourteen people died and over 30 were injured when a fire broke out at a community function of eunuchs in Nandnagari in east Delhi.","images":"#","links":null},{"id":10,"year":"June 13, 1997","headline":"June 13, 1997","desc":"A fire broke out at the Uphaar theatre during the screening of Bollywood film ‘Border’, killing 59 people and injuring over 100.","images":"#","links":null}];
+  
+    // var array = $.makeArray(timelineData);
+    var rCount = timelineData.length - 1;
+    // console.log(array);
+
+for ( var im = 0; im <= rCount; im++ ) {
+    $("#dates").append('<li><a href="#'+ timelineData[im].id+'">'+ timelineData[im].year +'</a></li>')
+}
+
+for ( var m = 0; m <= rCount; m++ ) {
+    $("#issues").append('<li id="'+ timelineData[m].id +'" class=""><h1>'+ timelineData[m].year+'</h1><p>'+ timelineData[m].desc +'</p></li>')
+}
+
+
+/**Timeline**/
+
+$(function(){
+    $().timelinr({
+      orientation:  'vertical',
+      issuesSpeed:  300,
+      datesSpeed:   100,
+      arrowKeys:    'true',
+      startAt:      1
+    })
+  });
+
+
+  /** pre-loader **/
+  $(document).ready(function() {
+ 
+ // Fakes the loading setting a timeout
+   setTimeout(function() {
+       $('body').addClass('loaded');
+   }, 2500);
+
+});
+
+$('.clickme').click(function(){
+    $('.body').css('display','none');
+  });
+
+
+</script>
+
+</html>
